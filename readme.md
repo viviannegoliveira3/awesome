@@ -271,6 +271,8 @@
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
+Reviewed by Vivianne Oliveira
+Reviewe by vivianne
 
 <br>
 <hr>
@@ -901,3 +903,4 @@
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+vivianne
